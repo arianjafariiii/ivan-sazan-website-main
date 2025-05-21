@@ -1,0 +1,160 @@
+{
+    "projects": [
+      {
+        "id": 1,
+        "title": "مجتمع آموزش و پرورش ناحیه 2 شیراز",
+        "startDate": "1394/03/02", 
+        "isCompleted": true,
+        "profileImage": "/images/projects/amoozesh-parvaresh/amoozesh-01.jpg",
+        "images": [
+          "/images/projects/amoozesh-parvaresh/amoozesh-02.jpg",
+          "/images/projects/amoozesh-parvaresh/amoozesh-03.jpg",
+          "/images/projects/amoozesh-parvaresh/amoozesh-04.jpg",
+          "/images/projects/amoozesh-parvaresh/amoozesh-05.jpg"
+        ],
+        "valuation": "2.3 میلیون دلار", 
+        "meterage": 7000,
+        "location": "شیراز، خیابان ابیوردی",
+        "description": "اجرای ساختمان چهار طبقه با زیربنای حدود ۷۰۰۰ متر مربع شامل اسکلت بتنی، سفت‌کاری، نازک‌کاری، تاسیسات مکانیکی و برقی، و نمای بیرونی .اداره کل آموزش و پرورش استان فارس"
+      },
+      {
+        "id": 2,
+        "title": "مجتمع شبانه روزی قشقایی صدرا شیراز ",
+        "startDate": "1383/06/25", 
+        "isCompleted": true,
+        "profileImage": "/images/projects/ghashghai/gh-edited-3.jpg",
+        "images": [
+          "/images/projects/ghashghai/gh-edited-2.jpg",
+          "/images/projects/ghashghai/gh-edited-.jpg",
+          "/images/projects/ghashghai/gh-edited-4.jpg"
+        ],
+        "valuation": "1.8 میلیون دلار", 
+        "meterage": 2500,
+        "location": "شیراز، ناحیه 2",
+        "description": "اجرای چهار ساختمان آموزشی شامل خوابگاه، سلف‌سرویس، سرویس‌های بهداشتی، محوطه‌سازی و دیوارکشی با زیربنای تقریبی ۴۰۰۰ متر مربع. این پروژه به سفارش اداره‌ کل نوسازی مدارس استان فارس انجام شد."
+      },
+      {
+        "id": 3,
+        "title": "مسجد اردوگاه  شهید دستغیب",
+        "startDate": "1389/07/05", 
+        "isCompleted": true,
+        "profileImage": "/images/projects/masjes-ordoogah/masjed-05.JPG",
+        "images": [
+          "/images/projects/masjes-ordoogah/masjed-02.JPG",
+          "/images/projects/masjes-ordoogah/masjed-03.JPG",
+          "/images/projects/masjes-ordoogah/masjed-04.JPG",
+          "/images/projects/masjes-ordoogah/masjed-01.JPG",
+          "/images/projects/masjes-ordoogah/masjed-06.JPG",
+          "/images/projects/masjes-ordoogah/masjed-07.JPG"
+          
+        ],
+        "valuation": "700 هزار دلار", 
+        "meterage": 1140,
+        "location": "شیراز، اردوگاه دستغیب",
+        "description": "اجرای اسکلت بتنی، سفت‌کاری، تاسیسات مکانیکی و برقی به همراه گنبد و مناره، در بنایی با زیربنای تقریبی ۱۲۰۰ متر مربع. این پروژه به سفارش اداره‌ کل نوسازی مدارس استان فارس اجرا شد."
+      },
+      {
+        "id": 4,
+        "title": "سالن چند منظوره‌ی مدرسه‌ی راهنمایی خرمندار ",
+        "startDate": "1389/11/09", 
+        "isCompleted": true,
+        "profileImage": "/images/projects/saloon-kharmandar/kharmandar-01.jpg",
+        "images": [
+          "/images/projects/saloon-kharmandar/kharmandar-01.jpg",
+          "/images/projects/saloon-kharmandar/kharmandar-01.jpg",
+          "/images/projects/saloon-kharmandar/kharmandar-01.jpg"
+        ],
+        "valuation": "120 هزار دلار", 
+        "meterage": 247,
+        "location": "شیراز، ناحیه 4، مدرسه‌ی راهنمایی خرمندار",
+        "description": "واقع در ناحیه 4 شهر شیراز با اسکلت فلزی شامل سالن ورزشی،   سالن اجتماعات و سالن امتحانات کارفرما اداره کل نوسازی مدارس استان فارس. "
+      },
+      {
+        "id": 5,
+        "title": " مدرسه ی عبدالرسول سادات شیراز",
+        "startDate": "1390/09/01", 
+        "isCompleted": true,
+        "profileImage": "/images/projects/saadaat/sadat-01.jpg",
+        "images": [
+          "/images/projects/saadaat/sadat-01.jpg",
+          "/images/projects/saadaat/sadat-01.jpg",
+          "/images/projects/saadaat/sadat-01.jpg"
+        ],
+        "valuation": "50 هزار دلار", 
+        "meterage": 1473,
+        "location": "شیراز",
+        "description": "پروژه‌ای واقع در ناحیه ۳ شهر شیراز با زیربنای تقریبی ۱۸۰۰ متر مربع، شامل ۱۲ کلاس آموزشی. این پروژه به سفارش اداره‌ کل نوسازی مدارس استان فارس اجرا شد."
+      },
+      {
+        "id": 6,
+        "title": " مدرسه ی دهخدا شیراز",
+        "startDate": "1390-04-02", 
+        "isCompleted": true,
+        "profileImage": "/images/projects/dehkhoda/dehkhoda-01.jpg",
+        "images": [
+          "/images/projects/education-complex-1.jpg",
+          "/images/projects/education-complex-2.jpg",
+          "/images/projects/education-complex-3.jpg"
+        ],
+        "valuation": "70 هزار دلار", 
+        "meterage": 1448,
+        "location": "شیراز",
+        "description": "پروژه‌ای واقع در ناحیه ۴ شهر شیراز با زیربنای تقریبی ۱۷۰۰ متر مربع، شامل ۱۰ کلاس آموزشی. این پروژه به سفارش اداره‌ کل نوسازی مدارس استان فارس اجرا شد."
+      },
+      {
+        "id": 7,
+        "title": " ساختمان آرین",
+        "startDate": "1402/05/07", 
+        "isCompleted": true,
+        "profileImage": "/images/projects/arian-building/arian-building-10.jpg",
+        "images": [
+          "/images/projects/arian-building/arian-building-02.jpg",
+          "/images/projects/arian-building/arian-building-03.jpg",
+          "/images/projects/arian-building/arian-building-04.jpg",
+          "/images/projects/arian-building/arian-building-05.jpg",
+          "/images/projects/arian-building/arian-building-06.jpg",
+          "/images/projects/arian-building/arian-building-07.jpg",
+          "/images/projects/arian-building/arian-building-08.jpg",
+          "/images/projects/arian-building/arian-building-09.jpg",
+          "/images/projects/arian-building/arian-building-01.jpg",
+          "/images/projects/arian-building/arian-building-11.jpg",
+          "/images/projects/arian-building/arian-building-12.jpg",
+          "/images/projects/arian-building/arian-building-13.jpg",
+          "/images/projects/arian-building/arian-building-14.jpg",
+          "/images/projects/arian-building/arian-building-15.jpg",
+          "/images/projects/arian-building/arian-building-16.jpg",
+          "/images/projects/arian-building/arian-building-17.jpg",
+          "/images/projects/arian-building/arian-building-18.jpg"
+        ],
+        "valuation": "-", 
+        "meterage":1000 ,
+        "location": "شیراز، تاچارا",
+        "description": "ساختمان مسکونی آرین در زمینی به مساحت ۳۰۰ متر مربع، در پنج طبقه شمالی‌جنوبی احداث شده و شامل واحدهای سه‌خوابه با دو خواب مستر می‌باشد. طراحی این پروژه با تمرکز بر آسایش ساکنین و بهره‌مندی حداکثری از نور طبیعی انجام شده است."
+      },
+      {
+        "id": 8,
+        "title": " ساختمان بهار",
+        "startDate": "1401/10/05", 
+        "isCompleted": true,
+        "profileImage": "/images/projects/bahar-building/bahar-building-05.jpg",
+        "images": [
+          "/images/projects/bahar-building/bahar-building-01.jpg",
+          "/images/projects/bahar-building/bahar-building-02.jpg",
+          "/images/projects/bahar-building/bahar-building-03.jpg",
+          "/images/projects/bahar-building/bahar-building-04.jpg",
+          "/images/projects/bahar-building/bahar-building-06.jpg",
+          "/images/projects/bahar-building/bahar-building-07.jpg",
+          "/images/projects/bahar-building/bahar-building-08.jpg",
+          "/images/projects/bahar-building/bahar-building-09.jpg",
+          "/images/projects/bahar-building/bahar-building-10.jpg",
+          "/images/projects/bahar-building/bahar-building-11.jpg"
+        ],
+        "valuation": "-", 
+        "meterage":1150 ,
+        "location": "شیراز، تاچارا",
+        "description": "ساختمان مسکونی آرین در زمینی به مساحت ۳۰۰ متر مربع، در پنج طبقه شمالی‌جنوبی احداث شده و شامل واحدهای سه‌خوابه با دو خواب مستر می‌باشد. طراحی این پروژه با تمرکز بر آسایش ساکنین و بهره‌مندی حداکثری از نور طبیعی انجام شده است."
+      }
+      
+      
+    ]
+  }
