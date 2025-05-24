@@ -6,7 +6,11 @@ import amoozesh1 from '../assets/amoozesh1.jpg';
 import { Link } from 'react-router-dom';
 
 const Header = () => {
-  const images = [masjed1, masjed2, masjed3, amoozesh1];
+  const images = ["images/projects/amoozesh-parvaresh/amoozesh-01.jpg",
+  "images/projects/arian-building/arian-building-10.jpg",
+  "images/projects/arian-building/arian-building-15.jpg",
+  "images/projects/arian-building/arian-building-11.jpg",
+  "images/projects/bahar-building/bahar-building-10.jpg"];
   const [currentIndex, setCurrentIndex] = useState(0);
 
   // Auto-rotate every 5 seconds
