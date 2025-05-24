@@ -1,5 +1,4 @@
 import { Fragment } from "react";
-import backImage from "../assets/masjed2.JPG";
 import CoWorkingItem from "../components/co-working-item.component";
 
 const AboutUS = () => {
@@ -11,7 +10,7 @@ const AboutUS = () => {
                     {/* Image Section - Mobile: Full width, Desktop: 1/3 width */}
                     <div 
                         className="w-full md:w-1/3 h-[300px] md:h-[600px] bg-cover bg-center bg-no-repeat order-1"
-                        style={{ backgroundImage: `url(${backImage})` }}
+                        style={{ backgroundImage: `url(images/projects/amoozesh-parvaresh/amoozesh-01.jpg)` }}
                     >
                         <div className="w-full h-full inset-0 bg-black bg-opacity-40"></div>
                     </div>
@@ -89,7 +88,7 @@ const AboutUS = () => {
                     {/* Image Section - Mobile: Full width, Desktop: 1/3 width */}
                     <div 
                         className="w-full md:w-1/3 h-[300px] md:h-[600px] bg-cover bg-center bg-no-repeat order-1 md:order-2"
-                        style={{ backgroundImage: `url(${backImage})` }}
+                        style={{ backgroundImage: `url(images/projects/arian-building/arian-building-10.jpg)` }}
                     >
                         <div className="w-full h-full inset-0 bg-black bg-opacity-40"></div>
                     </div>
